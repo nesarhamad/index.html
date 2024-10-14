@@ -1,0 +1,6 @@
+facebook
+<ion-icon name="logo-facebook"></ion-icon>
+search
+<ion-icon name="search-outline"></ion-icon>
+inista
+<ion-icon name="logo-instagram"></ion-icon>
